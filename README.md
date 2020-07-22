@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).  https://travis-ci.org/bit7x/7xcorp-frontend.svg?branch=master
 
 ## Available Scripts
 
