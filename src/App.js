@@ -36,7 +36,7 @@ function App() {
   function Home() {
     return (
       <div className="Home">
-        <h2>Hello Home</h2>
+        <h2>Hello Home CI</h2>
       </div>
     );
   }
