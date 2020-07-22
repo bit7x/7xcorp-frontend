@@ -1,5 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). [![Build Status](https://travis-ci.org/bit7x/7xcorp-frontend.svg?branch=master)](https://travis-ci.org/bit7x/7xcorp-frontend)
 ## Available Scripts
 
 In the project directory, you can run:
